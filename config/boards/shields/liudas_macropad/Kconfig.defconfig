@@ -1,0 +1,6 @@
+if SHIELD_LIUDAS_MACROPAD
+
+config ZMK_KEYBOARD_NAME
+    default "liudas_macropad"
+
+endif

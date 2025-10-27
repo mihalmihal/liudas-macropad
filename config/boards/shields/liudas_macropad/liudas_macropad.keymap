@@ -8,7 +8,7 @@
 
         default_layer {
             bindings = <
-                &kp LA(NUMBER_8) &kp LS(A) &kp LA(NUMBER_9) &kp LA(LCMD(K)) &kp LA(LCMD(B)) &kp LS(LCMD(BACKSLASH)) &kp G &kp H &kp I
+                &kp LA(NUMBER_8) &kp LS(A) &kp LA(NUMBER_9) &kp LA(LCMD(K)) &kp E &kp F &kp G &kp H &kp I
             >;
         };
     };
